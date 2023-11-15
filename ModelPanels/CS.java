@@ -40,6 +40,7 @@ public class CS extends JPanel {
 		b_code.setBounds(519, 11, 99, 25);
 		panel_4.add(b_code);
 		
+		//kl;lkjfdsdfghjkl
 		
 	}
 
